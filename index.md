@@ -6,7 +6,7 @@
 
 ## Work Experience
 
-- Software Engineer, Tubitak
+**Software Engineer, Tubitak**
   
 • Developed desktop application using C++, adhering to SOLID principles and system architecture was optimized with various design patterns.
 
@@ -19,7 +19,7 @@
 • Integrated third-party tools and components into applications.
 
 
-- DevOps Intern, Türksat
+**DevOps Intern, Türksat**
 
 • Conducted research on Docker, Kubernetes, Postman and FaaS technologies.
 
@@ -28,7 +28,7 @@
 • Worked on Linux systems for researches.
 
 
-- Frontend Developer Intern,
+**Frontend Developer Intern, BiSoft**
   
 • Enhanced web applications using React and Angular frameworks.
 
