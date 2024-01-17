@@ -50,4 +50,22 @@
 
 ## Project
 
-_very soon_
+# Tourism Management System
+- _Implemented project using Java to demonstrate proficiency in OOP concepts._
+- _Designed and developed graphical interface with Swing._
+
+# Thesis Project CoVR
+- _Collaborated with HAVELSAN in SUIT program. Using C# and Unity game engine, explored the intersection of psychology and computer science._
+- _Investigated the impact of virtual reality technology on users' emotions and response._
+
+# Information Rights project such as CIMER
+- _Designed and implemented a well-structured database using MSSQL._
+- _Written with MVC architecture using Java._
+
+# E-Store Clone Flowers
+- _Developed MSSQL, .NET 6.0, JavaScript and Docker._
+- _Utilize jira and github for project process._
+
+# Hurry up Ustam
+- _Researched and analyzed existing similar projects to identify usability strengths and challenges._
+- _Focused on Human-Computer Interaction principles._
