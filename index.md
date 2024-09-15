@@ -51,7 +51,8 @@
 ## Project
 
 ### FotoRing
-- ![Animation](assets/FotoRing.gif)
+
+![Animation](assets/FotoRing.gif)
 
 ### Tourism Management System
 - _Implemented project using Java to demonstrate proficiency in OOP concepts._
