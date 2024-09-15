@@ -50,6 +50,9 @@
 
 ## Project
 
+### FotoRing
+- ![Animation](assets/FotoRing.gif)
+
 ### Tourism Management System
 - _Implemented project using Java to demonstrate proficiency in OOP concepts._
 - _Designed and developed graphical interface with Swing._
@@ -69,9 +72,3 @@
 ### Hurry up Ustam
 - _Researched and analyzed existing similar projects to identify usability strengths and challenges._
 - _Focused on Human-Computer Interaction principles._
-
-### FotoRing
-- ![Animation](assets/FotoRing.gif)
-
-
-
