@@ -69,3 +69,6 @@
 ### Hurry up Ustam
 - _Researched and analyzed existing similar projects to identify usability strengths and challenges._
 - _Focused on Human-Computer Interaction principles._
+
+### FotoRing
+
