@@ -71,7 +71,7 @@
 - _Focused on Human-Computer Interaction principles._
 
 ### FotoRing
-- ![Animation](https://github.com/elifsz/FotoRing/blob/d8d6d49102aec6ee3d92b17df8f5b36ef0cedcd2/assets/FotoRing.gif)
+- ![Animation](assets/FotoRing.gif)
 
 
 
