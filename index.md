@@ -98,8 +98,8 @@
     <br>
     <ul>Designed and implemented a well-structured database using MSSQL.</ul>
     <ul>Written with MVC architecture using Java.</ul>
-    * Database design:
-![Image](assets/database-diagram.png)
+      <img src="https://github.com/elifsz/elifsz.github.io/blob/master/assets/database-diagram.png?raw=true"/>
+
 </details>
 
 ### E-Store Clone Flowers
