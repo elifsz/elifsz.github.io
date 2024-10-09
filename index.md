@@ -37,7 +37,7 @@
 
 ### Frontend Developer Intern, BiSoft
 
-**Keywords:** VSCode, Nginx, Angular, React, Git, GitLab
+**Keywords:** Nginx, Angular, React, Git, GitLab, VSCode
 
 <details>
   <summary>Details</summary>
@@ -55,7 +55,9 @@
 <details>
     <summary>Details</summary>
     <br>
-      <img src="https://github.com/elifsz/elifsz.github.io/blob/e8e983d8c4ea19704476fc21e092ff07dc94d7ba/assets/FotoRing.gif"/>
+    <img src="assets/FotoRing.gif" width="400" />
+
+
 </details>
 
 ### Tourism Management System
@@ -67,7 +69,7 @@
     <br>
     <ul>Implemented project using Java to demonstrate proficiency in OOP concepts.</ul>
     <ul>Designed and developed graphical interface with Swing.</ul>
-    <img src="assets/tourism-ms.png" alt="Project Image"/>
+   <img src="https://github.com/user-attachments/assets/096f1167-ba7b-41a6-8b48-f73d046e3d19 alt="Project Design"/>
     <img src="assets/tourism-ms-class-diagram.png" alt="Project Design"/>  
 </details>
 
