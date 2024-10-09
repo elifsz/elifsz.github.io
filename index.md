@@ -55,9 +55,7 @@
 <details>
     <summary>Details</summary>
     <br>
-    <img src="assets/FotoRing.gif" width="400" />
-
-
+    <img src="assets/FotoRing.gif" alt="Project GIF"/>
 </details>
 
 ### Tourism Management System
@@ -69,7 +67,7 @@
     <br>
     <ul>Implemented project using Java to demonstrate proficiency in OOP concepts.</ul>
     <ul>Designed and developed graphical interface with Swing.</ul>
-   <img src="https://github.com/user-attachments/assets/096f1167-ba7b-41a6-8b48-f73d046e3d19 alt="Project Design"/>
+    <img src="assets/tourism-ms.png" alt="Project Page"/>
     <img src="assets/tourism-ms-class-diagram.png" alt="Project Design"/>  
 </details>
 
@@ -82,11 +80,8 @@
     <br>
     <ul>Collaborated with HAVELSAN in SUIT program. Using C# and Unity game engine, explored the intersection of psychology and computer science.</ul>
     <ul>Investigated the impact of virtual reality technology on users' emotions and response.</ul>
-  
-    * Project image:
- ![Image](assets/covr1.jpg)
-![Image](assets/covr2.png)
-       
+    <img src="assets/covr1.jpg" alt="Project Page"/>
+    <img src="assets/covr2.png" alt="Project Page"/>       
 </details>
 
 ### Information Rights project such as CIMER
@@ -98,8 +93,7 @@
     <br>
     <ul>Designed and implemented a well-structured database using MSSQL.</ul>
     <ul>Written with MVC architecture using Java.</ul>
-      <img src="https://github.com/elifsz/elifsz.github.io/blob/master/assets/database-diagram.png?raw=true"/>
-
+    <img src="assets/database-diagram.png" alt="Project Design"/>
 </details>
 
 ### E-Store Clone Flowers
@@ -111,10 +105,8 @@
     <br>
     <ul>Developed MSSQL, .NET 6.0, JavaScript and Docker.</ul>
     <ul>Utilize jira and github for project process.</ul>
-  
-    * Project image:
-![Image](assets/e-flower.png)
-![Image](assets/e-flower-admin.png)
+    <img src="assets/e-flower.png" alt="Project Page"/>
+    <img src="assets/e-flower-admin.png" alt="Project Page"/>
 </details>
 
 ### Hurry up Ustam
@@ -126,10 +118,7 @@
     <br>
     <ul>Researched and analyzed existing similar projects to identify usability strengths and challenges.</ul>
     <ul>Focused on Human-Computer Interaction principles.</ul>
-  
-    * Project image:
-![Image](assets/hci-ss.png)
-       
+    <img src="assets/hci-ss.png" alt="Project Page"/>       
 </details>
 
 ### Machine Learning/Artificial Intelligence
@@ -139,9 +128,7 @@
 <details>
     <summary>Details</summary>
     <br>
-    * Project image:
-![Image](assets/ml.png)
-       
+    <img src="assets/ml.png" alt="Project Page"/>       
 </details>
 
 ### Notes:
