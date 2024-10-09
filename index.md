@@ -67,7 +67,7 @@
     <br>
     <ul>Implemented project using Java to demonstrate proficiency in OOP concepts.</ul>
     <ul>Designed and developed graphical interface with Swing.</ul>
-    <img src="https://github.com/elifsz/elifsz.github.io/assets/tourism-ms.png" alt="Project"/>
+    <img src="https://github.com/elifsz/elifsz.github.io/blob/master/assets/tourism-ms.png" alt="Project"/>
 
      * Project design:
   ![Image](assets/tourism-ms-class-diagram.png)  
