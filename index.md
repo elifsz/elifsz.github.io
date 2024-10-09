@@ -10,7 +10,7 @@
 
 ### Software Engineer, Tubitak
 
-**Keywords:** C++, Qt, CMake, QMake, XML, Wireshark, Microsoft Visual Studio Code, CLR, RAD Studio, SVN, Confluence, State Machine, Visual Paradigm, TeamCenter, Computer Network, Communication with Hardware
+**Keywords:** C++, Qt, CMake, QMake, XML, Wireshark, MSVC, CLR, RAD Studio, SVN, Confluence, State Machine, Visual Paradigm, TeamCenter, Computer Networks, API, DLL, Plugins
 
 <details>
   <summary>Details</summary>
@@ -60,7 +60,7 @@
 
 ### Tourism Management System
 
-**Keywords:** Java, Swing, OOP, SOLID
+**Keywords:** Java, Swing, OOP, SOLID, UML
 
 <details>
     <summary>Details</summary>
@@ -86,7 +86,7 @@
 
 ### Information Rights project such as CIMER
 
-**Keywords:** Database Design, MSSQL, MVC, Java
+**Keywords:** Java, Database Design, MSSQL, MVC
 
 <details>
     <summary>Details</summary>
@@ -98,7 +98,7 @@
 
 ### E-Store Clone Flowers
 
-**Keywords:** Softeare Requirement Specialist, MSSQL, .NET 6.0, JavaScript, Docker, Jira, Github, Agile
+**Keywords:** Software Requirement Specialist, MSSQL, .NET 6.0, REST, JavaScript, Docker, Jira, Github, Agile
 
 <details>
     <summary>Details</summary>
@@ -123,7 +123,7 @@
 
 ### Machine Learning/Artificial Intelligence
 
-**Keywords:** Python, Algorithms
+**Keywords:** Python, ML and AI Algorithms
 
 <details>
     <summary>Details</summary>
@@ -131,20 +131,19 @@
     <img src="assets/ml.png" alt="Project Page"/>       
 </details>
 
-### Notes:
-overal project: https://github.com/elifsz/Undergraduate-Projects
-
 ## Skills
 
 - Programming Languages: Java, C, C++, Python(ML)
   
 - Database: MSSQL
   
-- Web Technologies: HTML, CSS, JavaScript, React
+- Web Technologies: HTML, CSS, JavaScript, React, Java Spring
   
 - Frameworks & Libraries: Qt, C++/CLI
   
 - DevOps & Version Control: Docker, GitLab, SVN
-  
 
 **Keywords:** Cyber Security, Virtual Reality, Web Application, Desktop Application, Machine Learning, Database Management, Multithread Applications, Data Structures, Algorithms
+
+### Notes:
+Overal project: https://github.com/elifsz/Undergraduate-Projects
