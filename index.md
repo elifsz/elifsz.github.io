@@ -14,6 +14,7 @@
 
 <details>
   <summary>Details</summary>
+  <br>
   <ul>Developed desktop application using C++, adhering to SOLID principles and system architecture was optimized with various design patterns.</ul>
   <ul>Utilized communication protocols such as UART, UDP and MIL-STD- 1553.</ul>
   <ul>Prepared and maintained software documentation, keeping track of technical documents.</ul>
@@ -26,14 +27,11 @@
 **Keywords:** Java Spring, Docker, Kubernetes, Ubuntu, Linux Mint, Maven, Swagger, Postman, Apache OpenWhisk, OpenFaas, AWS, Web Services, REST
 
 <details>
-    <summary>Details</summary>
-  
-  * Conducted research on Docker, Kubernetes, Postman and FaaS technologies.
-  
-  * Gained experience in serverless architecture with Function as a Service (FaaS) such as Apache OpenWhisk and OpenFaas.
-    
-  * Worked on Linux systems for researches.
-        
+  <summary>Details</summary>
+  <br>
+  <ul>Conducted research on Docker, Kubernetes, Postman and FaaS technologies.</ul>
+  <ul>Gained experience in serverless architecture with Function as a Service (FaaS) such as Apache OpenWhisk and OpenFaas.</ul>
+  <ul>Worked on Linux systems for researches.</ul>  
 </details>
 
 
@@ -42,14 +40,11 @@
 **Keywords:** VSCode, Nginx, Angular, React, Git, GitLab
 
 <details>
-    <summary>Details</summary>
-  
-  * Enhanced web applications using React and Angular frameworks.
-
-  * Used Git for version control and collaborative project development.
-            
+  <summary>Details</summary>
+  <br>
+  <ul>Enhanced web applications using React and Angular frameworks.</ul>
+  <ul>Used Git for version control and collaborative project development.</ul>           
 </details>
-
 
 ## Project
 
@@ -59,7 +54,8 @@
 
 <details>
     <summary>Details</summary>
-      <img src="https://github.com/elifsz/elifsz.github.io/blob/e8e983d8c4ea19704476fc21e092ff07dc94d7ba/assets/FotoRing.gif" alt="Proje GIF"/>
+    <br>
+      <img src="https://github.com/elifsz/elifsz.github.io/blob/e8e983d8c4ea19704476fc21e092ff07dc94d7ba/assets/FotoRing.gif"/>
 </details>
 
 ### Tourism Management System
@@ -68,13 +64,10 @@
 
 <details>
     <summary>Details</summary>
-
-    * Implemented project using Java to demonstrate proficiency in OOP concepts.
-    
-    * Designed and developed graphical interface with Swing.
-  
-    * Project image:
-  ![Image](assets/tourism-ms.png)
+    <br>
+    <ul>Implemented project using Java to demonstrate proficiency in OOP concepts.</ul>
+    <ul>Designed and developed graphical interface with Swing.</ul>
+    <img src="https://github.com/elifsz/elifsz.github.io/blob/bb5e397584185cd79761b798c590f65610f22440/assets/tourism-ms.png" alt="Project"/>
 
      * Project design:
   ![Image](assets/tourism-ms-class-diagram.png)  
@@ -88,10 +81,9 @@
 
 <details>
     <summary>Details</summary>
-
-    * Collaborated with HAVELSAN in SUIT program. Using C# and Unity game engine, explored the intersection of psychology and computer science.
-    
-    * Investigated the impact of virtual reality technology on users' emotions and response.
+    <br>
+    <ul>Collaborated with HAVELSAN in SUIT program. Using C# and Unity game engine, explored the intersection of psychology and computer science.</ul>
+    <ul>Investigated the impact of virtual reality technology on users' emotions and response.</ul>
   
     * Project image:
  ![Image](assets/covr1.jpg)
@@ -105,16 +97,12 @@
 
 <details>
     <summary>Details</summary>
-
-    * Designed and implemented a well-structured database using MSSQL.
-    
-    * Written with MVC architecture using Java.
-  
+    <br>
+    <ul>Designed and implemented a well-structured database using MSSQL.</ul>
+    <ul>Written with MVC architecture using Java.</ul>
     * Database design:
 ![Image](assets/database-diagram.png)
-       
 </details>
-
 
 ### E-Store Clone Flowers
 
@@ -122,15 +110,13 @@
 
 <details>
     <summary>Details</summary>
-
-    * Developed MSSQL, .NET 6.0, JavaScript and Docker.
-    
-    * Utilize jira and github for project process.
+    <br>
+    <ul>Developed MSSQL, .NET 6.0, JavaScript and Docker.</ul>
+    <ul>Utilize jira and github for project process.</ul>
   
     * Project image:
 ![Image](assets/e-flower.png)
 ![Image](assets/e-flower-admin.png)
-       
 </details>
 
 ### Hurry up Ustam
@@ -139,10 +125,9 @@
 
 <details>
     <summary>Details</summary>
-
-    * Researched and analyzed existing similar projects to identify usability strengths and challenges
-    
-    * Focused on Human-Computer Interaction principles
+    <br>
+    <ul>Researched and analyzed existing similar projects to identify usability strengths and challenges.</ul>
+    <ul>Focused on Human-Computer Interaction principles.</ul>
   
     * Project image:
 ![Image](assets/hci-ss.png)
@@ -155,7 +140,7 @@
 
 <details>
     <summary>Details</summary>
-  
+    <br>
     * Project image:
 ![Image](assets/ml.png)
        
