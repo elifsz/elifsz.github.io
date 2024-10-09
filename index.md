@@ -13,18 +13,12 @@
 **Keywords:** C++, Qt, CMake, QMake, XML, Wireshark, Microsoft Visual Studio Code, CLR, RAD Studio, SVN, Confluence, State Machine, Visual Paradigm, TeamCenter, Computer Network, Communication with Hardware
 
 <details>
-    <summary>Details</summary>
-  
-  * Developed desktop application using C++, adhering to SOLID principles and system architecture was optimized with various design patterns.
-  
-  * Utilized communication protocols such as UART, UDP and MIL-STD- 1553.
-    
-  * Prepared and maintained software documentation, keeping track of technical documents.
-    
-  * Coordinated with other engineers to evaluate and improve software for hardware testing.
-    
-  * Integrated third-party tools and components into applications.
-    
+  <summary>Details</summary>
+  <ul>Developed desktop application using C++, adhering to SOLID principles and system architecture was optimized with various design patterns.</ul>
+  <ul>Utilized communication protocols such as UART, UDP and MIL-STD- 1553.</ul>
+  <ul>Prepared and maintained software documentation, keeping track of technical documents.</ul>
+  <ul>Coordinated with other engineers to evaluate and improve software for hardware testing.</ul>
+  <ul>Integrated third-party tools and components into applications.</ul>
 </details>
   
 ### DevOps Intern, Turksat
@@ -65,10 +59,7 @@
 
 <details>
     <summary>Details</summary>
-  
-  * Project image:
-![Animation](assets/FotoRing.gif)
-       
+      <img src="https://github.com/elifsz/elifsz.github.io/blob/e8e983d8c4ea19704476fc21e092ff07dc94d7ba/assets/FotoRing.gif" alt="Proje GIF"/>
 </details>
 
 ### Tourism Management System
