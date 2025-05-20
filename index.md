@@ -1,5 +1,8 @@
 ### Elif Şahingöz
 
+### Medium
+https://elif-from-zero.medium.com/
+
 ## Education
 
 - Computer Engineering in Ankara Yildirim Beyazit University
